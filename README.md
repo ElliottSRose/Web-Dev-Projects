@@ -1,3 +1,3 @@
 # Web-Dev-Projects
-Web Development Practice
+Web Development
 This is a folder full of the projects that I have done or am currently working on. All of these projects are classwork assignments and code alongs. 
